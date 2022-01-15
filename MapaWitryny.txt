@@ -1,5 +1,5 @@
-http:/lowpoly.waw.pl/index.html
-http:/lowpoly.waw.pl/cennik.html
-http:/lowpoly.waw.pl/ToMy.html
-http:/lowpoly.waw.pl/zamowienia.html
-http:/lowpoly.waw.pl/kontakt.html
+http://lowpoly.waw.pl/index.html
+http://lowpoly.waw.pl/cennik.html
+http://lowpoly.waw.pl/ToMy.html
+http://lowpoly.waw.pl/zamowienia.html
+http://lowpoly.waw.pl/kontakt.html
